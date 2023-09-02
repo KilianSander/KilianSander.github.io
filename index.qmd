@@ -5,7 +5,8 @@ title: "Kilian Sander"
 This website is currently under construction.
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
+require(rmarkdown)
 render_time <- Sys.time()
 ```
 
-It was last updated on `r render_time`.
+It was last updated on `r render_time` CEST.
