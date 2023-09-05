@@ -1,11 +1,16 @@
 ---
-title: "Kilian Sander"
+title: ""
 ---
 
 This website is currently under construction.
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
-render_time <- Sys.time()
+#render_time <- Sys.time()
 ```
+Kilian Sander is a research fellow at <a href="https://www.hml.hmtm-hannover.de/">Hanover Music Lab</a>.
 
-It was last updated on `r render_time` CEST.
+He is also editorial assistant at the <a href="https://jbdgm.psychopen.eu/index.php/JBDGM/editorial_team">Jahrbuch Musikpsychologie</a>.
+
+You can find him on <a href="https://scholar.google.com/citations?user=NsY6jwkAAAAJ&hl=de&oi=ao">Google Scholar</a> and with his <a href="https://orcid.org/0000-0003-3770-7483">ORCiD</a>.
+
+Website was last updated on 2023-09-05 18:30 CEST.
