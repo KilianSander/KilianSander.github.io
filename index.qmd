@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Kilian Sander's Personal Website"
 ---
 
 This website is currently under construction.
