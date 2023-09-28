@@ -1,17 +1,24 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Sander, K., Wycisk, Y., & Kopiez, R. (2023). Limited emotional value added by immersive 3D audio: A reanalysis. Music & Science, 6. https://doi.org/10.1177/20592043231194751\nWycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments. Behavior Research Methods. Advance online publication. https://doi.org/10.3758/s13428-022-02048-3\nWycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig, J., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part I: Suggestions for controlling characteristics of playback devices in internet experiments. Behavior Research Methods, 55, 1094–1107. https://doi.org/10.3758/s13428-022-01859-8\nWycisk, Y., Sander, K., Kopiez, R., Platz, F., Preihs, S., & Peissig, J. (2022). Wrapped into sound: Development of the Immersive Music Experience Inventory (IMEI). Frontiers in Psychology, 13, 951161. https://doi.org/10.3389/fpsyg.2022.951161"
+    "text": "Kiyan, R., Bergner, J., Preihs, S., Wycisk, Y., Schössow, D., Sander, K., Peissig, J., & Kopiez, R. (2023). Towards predicting immersion in surround sound music reproduction from sound field features. Acta Acustica, 7, Article 45. https://doi.org/10.1051/aacus/2023040\nSander, K., Wycisk, Y., & Kopiez, R. (2023). Limited emotional value added by immersive 3D audio: A reanalysis. Music & Science, 6. https://doi.org/10.1177/20592043231194751\nWycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments. Behavior Research Methods. Advance online publication. https://doi.org/10.3758/s13428-022-02048-3\nWycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig, J., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part I: Suggestions for controlling characteristics of playback devices in internet experiments. Behavior Research Methods, 55, 1094–1107. https://doi.org/10.3758/s13428-022-01859-8\nWycisk, Y., Sander, K., Kopiez, R., Platz, F., Preihs, S., & Peissig, J. (2022). Wrapped into sound: Development of the Immersive Music Experience Inventory (IMEI). Frontiers in Psychology, 13, 951161. https://doi.org/10.3389/fpsyg.2022.951161"
   },
   {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
     "section": "",
-    "text": "Sander, K., Wycisk, Y., & Kopiez, R. (2023). Limited emotional value added by immersive 3D audio: A reanalysis. Music & Science, 6. https://doi.org/10.1177/20592043231194751\nWycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments. Behavior Research Methods. Advance online publication. https://doi.org/10.3758/s13428-022-02048-3\nWycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig, J., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part I: Suggestions for controlling characteristics of playback devices in internet experiments. Behavior Research Methods, 55, 1094–1107. https://doi.org/10.3758/s13428-022-01859-8\nWycisk, Y., Sander, K., Kopiez, R., Platz, F., Preihs, S., & Peissig, J. (2022). Wrapped into sound: Development of the Immersive Music Experience Inventory (IMEI). Frontiers in Psychology, 13, 951161. https://doi.org/10.3389/fpsyg.2022.951161"
+    "text": "Kiyan, R., Bergner, J., Preihs, S., Wycisk, Y., Schössow, D., Sander, K., Peissig, J., & Kopiez, R. (2023). Towards predicting immersion in surround sound music reproduction from sound field features. Acta Acustica, 7, Article 45. https://doi.org/10.1051/aacus/2023040\nSander, K., Wycisk, Y., & Kopiez, R. (2023). Limited emotional value added by immersive 3D audio: A reanalysis. Music & Science, 6. https://doi.org/10.1177/20592043231194751\nWycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part II: A comprehensive playback device screening method in Internet experiments. Behavior Research Methods. Advance online publication. https://doi.org/10.3758/s13428-022-02048-3\nWycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig, J., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part I: Suggestions for controlling characteristics of playback devices in internet experiments. Behavior Research Methods, 55, 1094–1107. https://doi.org/10.3758/s13428-022-01859-8\nWycisk, Y., Sander, K., Kopiez, R., Platz, F., Preihs, S., & Peissig, J. (2022). Wrapped into sound: Development of the Immersive Music Experience Inventory (IMEI). Frontiers in Psychology, 13, 951161. https://doi.org/10.3389/fpsyg.2022.951161"
   },
   {
     "objectID": "publications.html#conference-contributions",
@@ -32,13 +39,6 @@
     "href": "index.html",
     "title": "Kilian Sander’s Personal Website",
     "section": "",
-    "text": "This website is currently under construction.\nKilian Sander is a research fellow at Hanover Music Lab.\nHe is also editorial assistant at the Jahrbuch Musikpsychologie.\nYou can find him on Google Scholar and with his ORCiD or follow him on Research Gate.\nWebsite was last updated on 2023-09-12 12:04:35 CEST."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "This website is currently under construction.\nKilian Sander is a research fellow at Hanover Music Lab.\nHe is also editorial assistant at the Jahrbuch Musikpsychologie.\nYou can find him on Google Scholar and with his ORCiD or follow him on Research Gate.\nWebsite was last updated on 2023-09-28 10:00:13 CEST."
   }
 ]
