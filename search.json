@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -39,6 +32,13 @@
     "href": "index.html",
     "title": "Kilian Sander’s Personal Website",
     "section": "",
-    "text": "This website is currently under construction.\nKilian Sander is a research fellow at Hanover Music Lab.\nHe is also editorial assistant at the Jahrbuch Musikpsychologie.\nYou can find him on Google Scholar and with his ORCiD or follow him on Research Gate.\nWebsite was last updated on 2023-09-28 17:43:34 CEST."
+    "text": "This website is currently under construction.\nKilian Sander is a research fellow at Hanover Music Lab.\nHe is also editorial assistant at the Jahrbuch Musikpsychologie.\nYou can find him on Google Scholar and with his ORCiD or follow him on Research Gate.\nWebsite was last updated on 2023-11-23 12:40:09 CET."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]
