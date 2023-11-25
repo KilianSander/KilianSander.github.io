@@ -1,7 +1,7 @@
 {
-  "hash": "15de8eea65fa5ea73a5891ea04e9e659",
+  "hash": "03d5c8531b9392fa8fe5806a993a90dc",
   "result": {
-    "markdown": "---\ntitle: \"Kilian Sander\"\n---\n\n\nThis website is currently under construction.\n\n\n\n\n\nIt was last updated on 2023-09-02 11:47:37.692175 CEST.\n",
+    "markdown": "---\ntitle: \"Kilian Sander's Personal Website\"\n---\n\n\nThis website is currently under construction.\n\nKilian Sander is a research fellow at <a href=\"https://www.hml.hmtm-hannover.de/\">Hanover Music Lab</a>.\n\nHe is also editorial assistant at the <a href=\"https://jbdgm.psychopen.eu/index.php/JBDGM/editorial_team\">Jahrbuch Musikpsychologie</a>.\n\nYou can find him on <a href=\"https://scholar.google.com/citations?user=NsY6jwkAAAAJ\">Google Scholar</a> and with his <a href=\"https://orcid.org/0000-0003-3770-7483\">ORCiD</a> or follow him on\n<a href=\"https://www.researchgate.net/profile/Kilian-Sander\">Research Gate</a>.\n\n\n::: {.cell}\n\n:::\n\nWebsite was last updated on .\n",
     "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"

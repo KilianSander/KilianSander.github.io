@@ -7,5 +7,7 @@ Authors@R:
 URL: https://github.com/KilianSander/KilianSander.github.io
 Depends: R (>= 4.0.0)
 Imports:
-    tidyverse,
+    rmarkdown,
+    knitr,
+    magrittr
 Encoding: UTF-8
