@@ -1,0 +1,11 @@
+Package: KilianSander.github.io
+Title: Kilian Sander’s Personal Website
+Version: 0.1
+Authors@R: 
+    person("Kilian", "Sander", , "kilian.sander@hmtm-hannover.de", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-3770-7483"))
+URL: https://github.com/KilianSander/KilianSander.github.io
+Depends: R (>= 4.0.0)
+Imports:
+    tidyverse,
+Encoding: UTF-8
