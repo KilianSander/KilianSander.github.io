@@ -4,7 +4,7 @@ title: "Kilian Sander's Personal Website"
 
 This website is currently under construction.
 
-Kilian Sander is a research fellow at <a href="https://www.hml.hmtm-hannover.de/">Hanover Music Lab</a>.
+Kilian Sander is a research fellow and PhD student at <a href="https://www.hml.hmtm-hannover.de/">Hanover Music Lab</a>.
 
 He is also an editorial assistant at the <a href="https://jbdgm.psychopen.eu/index.php/JBDGM/editorial_team">Jahrbuch Musikpsychologie</a>.
 
