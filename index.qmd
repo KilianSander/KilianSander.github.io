@@ -13,6 +13,6 @@ You can find him on <a href="https://scholar.google.com/citations?user=NsY6jwkAA
 
 ```{r time}
 #| echo: false
-current_time <- Sys.time()
+current_time <- Sys.time() |> strftime(format = "%Y-%m-%d %H:%M:%S %Z")
 ```
-Website was last updated on `r print(current_time)`.
+Website was last updated on `r current_time`.
