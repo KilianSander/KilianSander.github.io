@@ -161,3 +161,10 @@ Sander, K., Pausch, V., Müllensiefen, D., Höger, F., & Frieler, K.
 (2020). *Introduction to psyquest -- Deploying psychosocial and
 music-related questionnaires for data collection in R*.
 <http://media.gold-msi.org/misc/psyquest_introduction_v17.pdf>
+
+
+```{r time}
+#| echo: false
+current_time <- Sys.time() |> strftime(format = "%Y-%m-%d %H:%M:%S %Z")
+```
+This page was last updated on `r current_time`.

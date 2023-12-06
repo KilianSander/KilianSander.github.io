@@ -15,4 +15,4 @@ You can find him on <a href="https://scholar.google.com/citations?user=NsY6jwkAA
 #| echo: false
 current_time <- Sys.time() |> strftime(format = "%Y-%m-%d %H:%M:%S %Z")
 ```
-The website was last updated on `r current_time`.
+This page was last updated on `r current_time`.
