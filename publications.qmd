@@ -1,5 +1,11 @@
 ---
 title: "Publications"
+format:
+  html:
+    other-links:
+    - text: "Download Zotero-json file"
+      href: "https://raw.githubusercontent.com/KilianSander/publication-list/main/publications.json"
+      icon: download
 ---
 
 ## Journal Articles

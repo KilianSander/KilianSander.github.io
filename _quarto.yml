@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Kilian Sander"
+  cookie-consent: true
   navbar:
     left:
       - href: index.qmd
