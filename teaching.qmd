@@ -3,6 +3,7 @@ title: "Teaching"
 ---
 
 ## Summer semester 2024
+- Akustisches Praktikum [Practical course on acoustics]
 - Musiker*innen auf der Bühne aus musikpsychologischer Sicht [Musicians on stage from a music psychology perspective]
 - KI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]
 - Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]
@@ -15,3 +16,9 @@ title: "Teaching"
 - Akustisches Praktikum [Practical course on acoustics]
 - KI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]
 - Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]
+
+```{r time}
+#| echo: false
+current_time <- Sys.time() |> strftime(format = "%Y-%m-%d %H:%M:%S %Z")
+```
+This page was last updated on `r current_time`.

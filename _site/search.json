@@ -46,7 +46,7 @@
     "href": "publications.html#misc",
     "title": "Publications",
     "section": "Misc",
-    "text": "Misc\nFrieler, K., Wycisk, Y., & Sander, K. (2023). HALTConfig (Version 1.2) [Shiny app]. https://github.com/KilianSander/HALTConfig\nFrieler, K., Wycisk, Y., & Sander, K. (2022). HALT (Version 0.12.2) [R package]. https://github.com/KilianSander/HALT\nSander, K., & Wycisk, Y. (2022). ICMPC16/ESCOM11, 28.-31. Juli 2021, Fully virtual Conferencing [Tagungsbericht]. Jahrbuch Musikpsychologie, 30, 239–241.\nSander, K., & Labonde, P. (2021). groovescale (Version 0.9.0) [R package]. https://github.com/KilianSander/groovescale\nSander, K., Pausch, V., Müllensiefen, D., Höger, F., & Frieler, K. (2020). Introduction to psyquest – Deploying psychosocial and music-related questionnaires for data collection in R. http://media.gold-msi.org/misc/psyquest_introduction_v17.pdf\nThis page was last updated on 2024-02-02 06:16:00 CET."
+    "text": "Misc\nFrieler, K., Wycisk, Y., & Sander, K. (2023). HALTConfig (Version 1.2) [Shiny app]. https://github.com/KilianSander/HALTConfig\nFrieler, K., Wycisk, Y., & Sander, K. (2022). HALT (Version 0.12.2) [R package]. https://github.com/KilianSander/HALT\nSander, K., & Wycisk, Y. (2022). ICMPC16/ESCOM11, 28.-31. Juli 2021, Fully virtual Conferencing [Tagungsbericht]. Jahrbuch Musikpsychologie, 30, 239–241.\nSander, K., & Labonde, P. (2021). groovescale (Version 0.9.0) [R package]. https://github.com/KilianSander/groovescale\nSander, K., Pausch, V., Müllensiefen, D., Höger, F., & Frieler, K. (2020). Introduction to psyquest – Deploying psychosocial and music-related questionnaires for data collection in R. http://media.gold-msi.org/misc/psyquest_introduction_v17.pdf\nThis page was last updated on 2024-03-30 15:22:04 CET."
   },
   {
     "objectID": "teaching.html#winter-semester-20232024",
@@ -60,6 +60,20 @@
     "href": "teaching.html#summer-semester-2023",
     "title": "Teaching",
     "section": "Summer semester 2023",
-    "text": "Summer semester 2023\n\nAkustisches Praktikum [Practical course on acoustics]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]"
+    "text": "Summer semester 2023\n\nAkustisches Praktikum [Practical course on acoustics]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\n\nThis page was last updated on 2024-03-30 15:26:39 CET."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Akustisches Praktikum [Practical course on acoustics]\nMusiker*innen auf der Bühne aus musikpsychologischer Sicht [Musicians on stage from a music psychology perspective]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]"
+  },
+  {
+    "objectID": "teaching.html#summer-semester-2024",
+    "href": "teaching.html#summer-semester-2024",
+    "title": "Teaching",
+    "section": "",
+    "text": "Akustisches Praktikum [Practical course on acoustics]\nMusiker*innen auf der Bühne aus musikpsychologischer Sicht [Musicians on stage from a music psychology perspective]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]"
   }
 ]

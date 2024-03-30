@@ -1,0 +1,15 @@
+{
+  "hash": "f28ad20f9640d0c5a3b90a153b2669ab",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Teaching\"\n---\n\n\n## Summer semester 2024\n- Akustisches Praktikum [Practical course on acoustics]\n- Musiker*innen auf der Bühne aus musikpsychologischer Sicht [Musicians on stage from a music psychology perspective]\n- KI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\n- Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\n\n## Winter semester 2023--2024\n- Computergestützte Musikforschung [Computer-based musicology]\n- Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\n\n## Summer semester 2023\n- Akustisches Praktikum [Practical course on acoustics]\n- KI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\n- Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\n\n\n::: {.cell}\n\n:::\n\nThis page was last updated on 2024-03-30 15:26:39 CET.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
