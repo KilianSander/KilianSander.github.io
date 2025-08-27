@@ -1,11 +1,9 @@
 {
-  "hash": "50f7a72eb83ff3ca17e4cfdfb20102ed",
+  "hash": "3b8c53559f10aafea6cb1043aa3dc670",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"Kilian Sander's Personal Website\"\n---\n\n\nThis website is currently under construction.\n\nKilian Sander is a research fellow and PhD student at <a href=\"https://www.hml.hmtm-hannover.de/\">Hanover Music Lab</a>.\n\nHe is also an editorial assistant at the <a href=\"https://jbdgm.psychopen.eu/index.php/JBDGM/editorial_team\">Jahrbuch Musikpsychologie</a>.\n\nYou can find him on <a href=\"https://scholar.google.com/citations?user=NsY6jwkAAAAJ\">Google Scholar</a> and with his <a href=\"https://orcid.org/0000-0003-3770-7483\">ORCiD</a> or follow him on\n<a href=\"https://www.researchgate.net/profile/Kilian-Sander\">Research Gate</a>.\n\n\n::: {.cell}\n\n:::\n\nThis page was last updated on 2024-03-30 15:34:28 CET.\n",
-    "supporting": [
-      "index_files"
-    ],
+    "markdown": "---\ntitle: \"Kilian Vogt's Personal Website\"\n---\n\nThis website is currently under construction.\n\nKilian Vogt (born Sander) is a research fellow and PhD student at the <a href=\"https://www.hml.hmtm-hannover.de/\">Hanover Music Lab</a>.\n\nHe is also an editorial assistant at the <a href=\"https://jbdgm.psychopen.eu/index.php/JBDGM/editorial-team\">Jahrbuch Musikpsychologie</a>.\n\nYou can find him on <a href=\"https://scholar.google.com/citations?user=NsY6jwkAAAAJ\">Google Scholar</a> and with his <a href=\"https://orcid.org/0000-0003-3770-7483\">ORCiD</a> or follow him on\n<a href=\"https://www.researchgate.net/profile/Kilian-Vogt\">Research Gate</a>.\n\n\n::: {.cell}\n\n:::\n\nThis page was last updated on 2025-08-27 12:19:09 CEST.\n",
+    "supporting": [],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],

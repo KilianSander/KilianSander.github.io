@@ -1,15 +1,15 @@
 ---
-title: "Kilian Sander's Personal Website"
+title: "Kilian Vogt's Personal Website"
 ---
 
 This website is currently under construction.
 
-Kilian Sander is a research fellow and PhD student at <a href="https://www.hml.hmtm-hannover.de/">Hanover Music Lab</a>.
+Kilian Vogt (born Sander) is a research fellow and PhD student at the <a href="https://www.hml.hmtm-hannover.de/">Hanover Music Lab</a>.
 
-He is also an editorial assistant at the <a href="https://jbdgm.psychopen.eu/index.php/JBDGM/editorial_team">Jahrbuch Musikpsychologie</a>.
+He is also an editorial assistant at the <a href="https://jbdgm.psychopen.eu/index.php/JBDGM/editorial-team">Jahrbuch Musikpsychologie</a>.
 
 You can find him on <a href="https://scholar.google.com/citations?user=NsY6jwkAAAAJ">Google Scholar</a> and with his <a href="https://orcid.org/0000-0003-3770-7483">ORCiD</a> or follow him on
-<a href="https://www.researchgate.net/profile/Kilian-Sander">Research Gate</a>.
+<a href="https://www.researchgate.net/profile/Kilian-Vogt">Research Gate</a>.
 
 ```{r time}
 #| echo: false

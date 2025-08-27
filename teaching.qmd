@@ -1,6 +1,18 @@
 ---
 title: "Teaching"
 ---
+## Winter semester 2024--2025
+- Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]
+
+## Summer semester 2025
+- Musikalität und ihre Messbarkeit [Musicality and its measurability]
+- KI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]
+- Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]
+- Computergestützte Musikforschung [Computer-based musicology]
+
+## Winter semester 2024--2025
+- Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]
+- Computergestützte Musikforschung [Computer-based musicology]
 
 ## Summer semester 2024
 - Akustisches Praktikum [Practical course on acoustics]

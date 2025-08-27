@@ -10,6 +10,17 @@ format:
 
 ## Journal Articles
 
+Vogt, K., Wycisk, Y., Platz, F., & Kopiez, R. (2025). Measuring the
+immersive music listening experience: Convergence of online and
+laboratory data. *Musicae Scientiae*, *29*(3), 425–448.
+<https://doi.org/10.1177/10298649251337683>
+
+Meier, N., Sander, K., Schreiber, A., & Kopiez, R. (2025). The creative
+musical achievement of AI systems compared to music students: a
+replication of the study by Schreiber et al. (2024). *Jahrbuch
+Musikpsychologie*, *33*, Article e221.
+<https://doi.org/10.5964/jbdgm.221>
+
 Schäfer, N., Kopiez, R., & Sander, K. (2024). Anstrengungsbereitschaft
 beim Singen im Musikunterricht: Eine empirische Untersuchung möglicher
 Einflussfaktoren. *Jahrbuch Musikpsychologie*, *32*, Article e197.
@@ -24,7 +35,7 @@ human-based solutions in a standardized melody continuation task.
 Wycisk, Y., Sander, K., Manca, B., Kopiez, R., & Platz, F. (2024). The
 Headphone and Loudspeaker Test – Part II: A comprehensive playback
 device screening method in Internet experiments. *Behavior Research
-Methods*, *56*, 362–378. <https://doi.org/10.3758/s13428-022-02048-3>
+Methods*, *56*(1), 362–378. <https://doi.org/10.3758/s13428-022-02048-3>
 
 Kiyan, R., Bergner, J., Preihs, S., Wycisk, Y., Schössow, D., Sander,
 K., Peissig, J., & Kopiez, R. (2023). Towards predicting immersion in
@@ -38,7 +49,7 @@ added by immersive 3D audio: A reanalysis. *Music & Science*, *6*.
 Wycisk, Y., Kopiez, R., Bergner, J., Sander, K., Preihs, S., Peissig,
 J., & Platz, F. (2023). The Headphone and Loudspeaker Test – Part I:
 Suggestions for controlling characteristics of playback devices in
-internet experiments. *Behavior Research Methods*, *55*, 1094–1107.
+internet experiments. *Behavior Research Methods*, *55*(3), 1094–1107.
 <https://doi.org/10.3758/s13428-022-01859-8>
 
 Wycisk, Y., Sander, K., Kopiez, R., Platz, F., Preihs, S., & Peissig, J.
@@ -47,6 +58,23 @@ Experience Inventory (IMEI). *Frontiers in Psychology*, *13*, Article
 951161. <https://doi.org/10.3389/fpsyg.2022.951161>
 
 ## Conference Contributions
+
+Sander, K., Gutzmann, G., & Kopiez, R. (2025, July 21–25). *Sight over
+sound in judgements of audio-visual music performances? Support from a
+conceptual replication of Tsay’s (2013) visual dominance hypothesis*
+\[Presentation\]. 18th International Conference on Music Perception and
+Cognition, São Paulo, Brazil.
+
+Lange, E. B., Baltes, F., Sander, K., & Cox, C. L. (2025, July 21–25).
+*Perceived emotional expression of synthetic singing voices*
+\[Presentation\]. 18th International Conference on Music Perception and
+Cognition, São Paulo, Brazil.
+
+Sander, K., Gutzmann, G., & Kopiez, R. (2025, March 3–4). *Sehen statt
+Hören beim Bewerten von Musikdarbietungen? Konzeptionelle Replikation
+der Hypothese der visuellen Dominanz von Tsay (2013)* \[Presentation\].
+Treffen der Fachgruppe Systematische Musikwissenschaft in der
+Gesellschaft für Musikforschung, Weimar, Germany.
 
 Sander, K., Gutzmann, G., & Kopiez, R. (2024, September 6–8). *Sehen
 statt Hören beim Bewerten von Musikdarbietungen? Konzeptionelle
