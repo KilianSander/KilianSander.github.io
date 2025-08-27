@@ -5,7 +5,7 @@ project:
   type: website
 
 website:
-  title: "Kilian Sander"
+  title: "Kilian Vogt"
   cookie-consent: true
   navbar:
     left:
