@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Kilian Vogt’s Personal Website",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This website is currently under construction.\nKilian Vogt (born Sander) is a research fellow and PhD student at the Hanover Music Lab.\nHe is also an editorial assistant at the Jahrbuch Musikpsychologie.\nYou can find him on Google Scholar and with his ORCiD or follow him on Research Gate.\nThis page was last updated on 2025-08-27 12:19:09 CEST."
+    "text": "About this site"
   },
   {
     "objectID": "teaching.html",
@@ -14,8 +14,8 @@
     "text": "Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]"
   },
   {
-    "objectID": "teaching.html#winter-semester-20242025",
-    "href": "teaching.html#winter-semester-20242025",
+    "objectID": "teaching.html#winter-semester-20252026",
+    "href": "teaching.html#winter-semester-20252026",
     "title": "Teaching",
     "section": "",
     "text": "Kolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]"
@@ -28,8 +28,8 @@
     "text": "Summer semester 2025\n\nMusikalität und ihre Messbarkeit [Musicality and its measurability]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\nComputergestützte Musikforschung [Computer-based musicology]"
   },
   {
-    "objectID": "teaching.html#winter-semester-20242025-1",
-    "href": "teaching.html#winter-semester-20242025-1",
+    "objectID": "teaching.html#winter-semester-20242025",
+    "href": "teaching.html#winter-semester-20242025",
     "title": "Teaching",
     "section": "Winter semester 2024–2025",
     "text": "Winter semester 2024–2025\n\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\nComputergestützte Musikforschung [Computer-based musicology]"
@@ -53,7 +53,14 @@
     "href": "teaching.html#summer-semester-2023",
     "title": "Teaching",
     "section": "Summer semester 2023",
-    "text": "Summer semester 2023\n\nAkustisches Praktikum [Practical course on acoustics]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\n\nThis page was last updated on 2025-08-27 12:27:09 CEST."
+    "text": "Summer semester 2023\n\nAkustisches Praktikum [Practical course on acoustics]\nKI-Melodie: Wie Künstliche Intelligenz die Musik verändert [AI melody: How artificial intelligence is changing music]\nKolloquium Aktuelle musikpsychologische Forschung [Colloquium on current research in music psychology]\n\nThis page was last updated on 2025-10-29 15:35:35 UTC."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kilian Vogt’s Personal Website",
+    "section": "",
+    "text": "This website is currently under construction.\nKilian Vogt (born Sander) is a research fellow and PhD student at the Hanover Music Lab.\nHe is also an editorial assistant at the Jahrbuch Musikpsychologie.\nYou can find him on Google Scholar and with his ORCiD or follow him on Research Gate.\nThis page was last updated on 2025-08-27 12:19:09 CEST."
   },
   {
     "objectID": "publications.html",
@@ -82,12 +89,5 @@
     "title": "Publications",
     "section": "Misc",
     "text": "Misc\nFrieler, K., Wycisk, Y., & Sander, K. (2023). HALTConfig (Version 1.2) [Shiny app]. https://github.com/KilianSander/HALTConfig\nFrieler, K., Wycisk, Y., & Sander, K. (2022). HALT (Version 0.12.2) [R-package]. https://github.com/KilianSander/HALT\nSander, K., & Wycisk, Y. (2022). ICMPC16/ESCOM11, 28.-31. Juli 2021, Fully virtual Conferencing [Tagungsbericht]. Jahrbuch Musikpsychologie, 30, 239–241.\nSander, K., & Labonde, P. (2021). groovescale (Version 0.9.0) [R-package]. https://github.com/KilianSander/groovescale\nSander, K., Pausch, V., Müllensiefen, D., Höger, F., & Frieler, K. (2020). Introduction to psyquest – Deploying psychosocial and music-related questionnaires for data collection in R. http://media.gold-msi.org/misc/psyquest_introduction_v17.pdf\nThis page was last updated on 2025-08-27 12:19:26 CEST."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
   }
 ]
